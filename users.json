@@ -38,7 +38,12 @@
     },
     "navjot kaur": {
       "id": 10005,
-      "rated_movies": {},
+      "rated_movies": {
+        "1": 4,
+        "50": 3,
+        "150": 2,
+        "250": 3
+      },
       "created_at": "1760550097.5928721"
     },
     "rahul": {

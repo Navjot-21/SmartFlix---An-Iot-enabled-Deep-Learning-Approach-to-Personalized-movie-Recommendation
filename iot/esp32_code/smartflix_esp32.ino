@@ -15,11 +15,11 @@ Adafruit_SH1106G display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, OLED_RESET);
 #define BUTTON_PIN 4
 
 // WiFi Credentials
-const char* ssid = "CGC@Girls_h";
-const char* password = "NAvjot@321";
+const char* ssid = "wifi name";
+const char* password = "wifi password";
 
 // Server Configuration
-const char* serverURL = "http://10.60.37.186"; // Change to your PC IP
+const char* serverURL = "http://pc' s ip address"; // Change to your PC IP
 
 // MPU6050 I2C address
 const int MPU6050_ADDR = 0x68;
